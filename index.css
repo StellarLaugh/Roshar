@@ -3,14 +3,14 @@ body {
   color: #FFD700;
   text-align: center;
   margin: 0;
-  padding: 20px; /* faltaba ; */
+  padding: 20px;
   background-image: url("./fondo.jpg");
   background-size: cover;
   background-position: center center;
 }
 
-h1 {
-  font-size: 2.0em;
+tittle {
+  font-size: 3.0em;
   color: #FFD700;
   text-shadow: 2px 2px 8px #000;
   margin-bottom: 20px;
