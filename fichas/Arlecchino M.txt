@@ -1,0 +1,85 @@
+*᪄    l ͜͡ ͠l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l︩︪ ͜͡ ͠l︩︪l ͜͡ l     ꒰͜͡ ★ ͜͡꒱    l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪l ͜͡ ͠l︩︪ ͜͡ ͠l︩︪l ͜͡ l   ᪃*
+
+ *`ꐚ. 𝗙𝐈𝐂𝐇𝐀 𝗗𝐄 𝗣𝐄𝐑𝐒𝐎𝐍𝐀𝐉𝐄 /!?`*
+          ݁⏜͜͡᪈͜͡⏜݁    💠᳕    ݁⏜͜͡᪈͜͡⏜݁
+
+                   ─────
+♦️ `IDENTIFICACIÓN:`
+> .🖋️ Arlecchino. 
+
+                   ─────
+💎 `PERSONALIDAD:`
+ .🖋️ #. Se esfuerza por mantener una imagen imponente, fría e intransigente.
+#. Porta de una personalidad estoica, serena, de vez en cuando es como si no mostrará interés en algún tema y una calma que podría llegar a infringir miedo ante los que no saben describir sus expresiones.
+#. Es atenta ante lo más pequeño, cuidadosa con lo peligroso, no suele perder el tiempo en algo que no ña llevara a algo en el futuro, detesta las amenazas sin acción.
+#. Es bastante protectora con su familia, amable con niños y ancianos, pero cuando se trata del trabajo, cambia su perfil drasticamente.
+#. No es arrogante, es paciente tanto con los débiles que con aprendices, siempre mantiene un tono bajo aunque pueda estar ardiendo en ira al millón, y no deja que sus emociones interrumpan su trabajo.
+#. Es lean a la familia.
+
+                   ─────
+♦️ `HISTORIA:`
+> .🖋️ Opcional, pero si decides omitirla y revelarla posteriormente en el rol, corres el riesgo de recibir correcciones si tus afirmaciones contradicen el Lore establecido.
+ 
+                   ─────
+💎 `RAZA:`
+> .🖋️ Mensajero de Oscuridad.
+
+                   ─────
+♦️ `Habilidades:`
+*#.Maldiciones*
+Las maldiciones no son simples hechizos. Son sentencias susurradas al alma, marcas invisibles que no hieren la carne de inmediato, sino que se aferran al destino del objetivo. Cuando una criatura de Oscuridad maldice, no lanza energía: impone una verdad torcida sobre su víctima. Pero para que esa verdad se ancle, el contacto es imprescindible. La sombra debe tocar al objetivo, aunque sea por un instante, y en ese acto el maldiciente debe gastar fulgor, empujándolo contra la resistencia del alma enemiga. Solo si ese fulgor supera la R.C. del objetivo, la maldición logra sellarse.
+La cantidad de fulgor invertida no regresa. Permanece atrapada en la condena, atada a la víctima como un ancla oscura, y no volverá al maldiciente mientras la maldición se mantenga activa. Una vez impuesta, la sombra se desliza como una tinta viva, sellándose en el espíritu. Desde ese instante, el mundo comienza a fallarle al maldito: La suerte se vuelve hostil.
+El cuerpo responde más lento. La mente se llena de dudas y temores que no le pertenecen. Las maldiciones crecen con el tiempo. No necesitan fuerza constante; se alimentan de emociones negativas: miedo, culpa, desesperación. Cuanto más lucha el afectado contra su destino, más profundas se vuelven las raíces de la condena… y más firmemente queda atrapado el fulgor que la sostiene. Algunas maldiciones son sutiles, casi misericordiosas:
+un cansancio eterno,
+un dolor que nunca sana del todo. Otras son crueles: erosionan recuerdos,
+marchitan vínculos,
+deforman el alma hasta volverla irreconocible. Lo más aterrador es que no siempre pueden romperse.
+La luz puede aliviar sus síntomas, los rituales pueden debilitarlas,
+pero una maldición verdadera solo desaparece cuando: El precio ha sido pagado
+El maldiciente ha sido derrotado O el destino ha sido completamente consumido
+Solo entonces, el fulgor atrapado es liberado… o se pierde para siempre.
+Por eso, en los reinos oscuros se dice:
+
+“Un hechizo puede fallar.
+Una herida puede sanar.
+Pero una maldición… aprende a esperar.”
+
+                   ─────
+💎 `ESTADÍSTICAS:`
+*(700 puntos a repartir).*
+> .🖋️
+
+                   ─────
+♦️ `FUERZA:`
+> .🖋️ Capacidad para ejercer presión, empujar objetos, golpear, levantar peso.
+#. 100
+
+                   ─────
+💎 `RESISTENCIA:`
+> .🖋️ Capacidad para soportar presión, golpes por impacto y el tiempo máximo que puedes correr con toda tu velocidad.
+#. 100
+
+                   ─────
+♦️ `VELOCIDAD:`
+> .🖋️ Rapidez a la hora de desplazarse o correr.
+#. 100
+
+                   ─────
+💎 `VELOCIDAD DE ATAQUE FÍSICO:`
+> .🖋️ Rapidez de tus ataques.
+#. 100
+
+                   ─────
+♦️ `REFLEJOS:`
+> .🖋️ Prontitud en responder a estímulos, se usa para esquivar o evitar obstáculos repentinos, aquí se indica hasta que punto puedes reaccionar, por ejemplo 5 m/s o 5 ptos indican que puedes evitar cosas que se muevan igual o por debajo de esa cifra.
+#. 100
+
+                   ─────
+💎 `RESISTENCIA DE CONDICIONES:`
+> .🖋️ Capacidad para resistir otras habilidades que no involucren impacto físico, y condiciones naturales adversas.
+#. 100
+
+                   ─────
+♦️ `PUNTOS DE FULGOR:`
+> .🖋️ Tú maná, magia, energía o poder, esto es lo que gastas para tus habilidades.
+#. 100
